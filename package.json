@@ -1,0 +1,16 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "jest test demo",
+  "main": "src/index.js",
+  "repository": "git@github.com:jwchan1996/jest-test.git",
+  "author": "jwchan1996 <741755613@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn jest",
+    "test:watch": "yarn jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
